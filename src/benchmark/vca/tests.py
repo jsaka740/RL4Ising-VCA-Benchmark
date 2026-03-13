@@ -30,22 +30,30 @@ result_file = args.result_file
 
 path = os.path.split(test_dir)[0]
 test_files = [os.path.join(path, file) for file in os.listdir(test_dir)]
+# Filter test files for seed numbers 1-25
+filtered_files = []
+for file in test_files:
+    try:
+        int(file[-6:-4])
+    except ValueError:
+        filtered_files.append(file)
+        continue
+    if int(file[-6:-4]) <= 25:
+        filtered_files.append(file)
 
-
+filtered_files = sorted(filtered_files)
+print(filtered_files)
 result_file = result_file
 if os.path.isfile(result_file):
     with open(result_file, 'r') as f:
         data = json.load(f)
         minimums = data['results']
-        files = data['files']
 else:
     minimums = dict()
-    files = []
 print(minimums)
-print(files)
-for test in test_files:
+for test in filtered_files:
     # 1. Path to your problem instance
-    if os.path.split(test)[1] in files:
+    if os.path.split(test)[1] in minimums.keys():
         print(test + " previously completed")
         continue
     seed = 0
@@ -60,9 +68,8 @@ for test in test_files:
 
     print(f"Minimum Energy Found: {min_energies}")
     minimums[os.path.split(test)[1]] = min_energies
-    files.append(os.path.split(test)[1])
     with open(result_file, 'w') as f:
-        json.dump({'tests-completed': len(files), 'files': files, 'results': minimums}, f, indent=4)
+        json.dump({'tests-completed': len(minimums), 'results': minimums}, f, indent=4)
 
 print(minimums)
 
