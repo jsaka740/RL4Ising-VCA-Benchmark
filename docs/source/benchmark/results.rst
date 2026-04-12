@@ -4884,6 +4884,756 @@ Fully Connected WPE Benchmark
      - nan
      - -7.9233870958
      - nan
+   * - 0.50
+     - 1
+     - nan
+     - -7.701612903500001
+     - nan
+   * - 0.50
+     - 2
+     - nan
+     - -7.933467741400001
+     - nan
+   * - 0.50
+     - 3
+     - nan
+     - -7.679435484400001
+     - nan
+   * - 0.50
+     - 4
+     - nan
+     - -7.981854838800001
+     - nan
+   * - 0.50
+     - 5
+     - nan
+     - -7.575100806700001
+     - nan
+   * - 0.50
+     - 6
+     - nan
+     - -7.644405241500001
+     - nan
+   * - 0.50
+     - 7
+     - nan
+     - -8.1088709675
+     - nan
+   * - 0.50
+     - 8
+     - nan
+     - -8.000000000900004
+     - nan
+   * - 0.50
+     - 9
+     - nan
+     - -8.082661290799999
+     - nan
+   * - 0.50
+     - 10
+     - nan
+     - -8.1209677422
+     - nan
+   * - 0.50
+     - 11
+     - nan
+     - -7.8709677402999985
+     - nan
+   * - 0.50
+     - 12
+     - nan
+     - -7.921370967800002
+     - nan
+   * - 0.50
+     - 13
+     - nan
+     - -8.014112904300001
+     - nan
+   * - 0.50
+     - 14
+     - nan
+     - -7.7691532257999985
+     - nan
+   * - 0.50
+     - 15
+     - nan
+     - -7.929435483999999
+     - nan
+   * - 0.50
+     - 16
+     - nan
+     - -7.907258064500001
+     - nan
+   * - 0.50
+     - 17
+     - nan
+     - -7.780241935200001
+     - nan
+   * - 0.50
+     - 18
+     - nan
+     - -8.116935484299999
+     - nan
+   * - 0.50
+     - 19
+     - nan
+     - -7.441532257900002
+     - nan
+   * - 0.50
+     - 20
+     - nan
+     - -7.7318548388999995
+     - nan
+   * - 0.50
+     - 21
+     - nan
+     - -7.945564515799999
+     - nan
+   * - 0.50
+     - 22
+     - nan
+     - -7.713961692999998
+     - nan
+   * - 0.50
+     - 23
+     - nan
+     - -7.673639113600002
+     - nan
+   * - 0.50
+     - 24
+     - nan
+     - -7.8104838709000015
+     - nan
+   * - 0.50
+     - 25
+     - nan
+     - -7.9233870958000026
+     - nan
+   * - 0.75
+     - 1
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 2
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 3
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 4
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 5
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 6
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 7
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 8
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 9
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 10
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 11
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 12
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 13
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 14
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 15
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 16
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 17
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 18
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 19
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 20
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 21
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 22
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 23
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 24
+     - nan
+     - nan
+     - nan
+   * - 0.75
+     - 25
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 1
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 2
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 3
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 4
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 5
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 6
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 7
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 8
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 9
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 10
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 11
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 12
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 13
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 14
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 15
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 16
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 17
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 18
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 19
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 20
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 21
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 22
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 23
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 24
+     - nan
+     - nan
+     - nan
+   * - 1.00
+     - 25
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 1
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 2
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 3
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 4
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 5
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 6
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 7
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 8
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 9
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 10
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 11
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 12
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 13
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 14
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 15
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 16
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 17
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 18
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 19
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 20
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 21
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 22
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 23
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 24
+     - nan
+     - nan
+     - nan
+   * - 1.24
+     - 25
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 1
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 2
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 3
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 4
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 5
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 6
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 7
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 8
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 9
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 10
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 11
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 12
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 13
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 14
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 15
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 16
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 17
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 18
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 19
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 20
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 21
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 22
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 23
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 24
+     - nan
+     - nan
+     - nan
+   * - 1.50
+     - 25
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 1
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 2
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 3
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 4
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 5
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 6
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 7
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 8
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 9
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 10
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 11
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 12
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 13
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 14
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 15
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 16
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 17
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 18
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 19
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 20
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 21
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 22
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 23
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 24
+     - nan
+     - nan
+     - nan
+   * - 0.50
+     - 25
+     - nan
+     - nan
+     - nan
 
 
 
